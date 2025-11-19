@@ -1,5 +1,5 @@
 # qb-radialmenu
-Nopixel Inspired Radial Menu made by Rau 
+Nopixel Inspired 3.0 / 3.5 Radial Menu made by Rau 
 easy install drag & drop etc. 
 
 FV-vehcontrol needed for the Vehicle Control (Doors windows etc.) https://github.com/Flaruto/fv-vehcontrol
